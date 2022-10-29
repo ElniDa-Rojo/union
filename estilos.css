@@ -1,0 +1,19 @@
+p{background-color: rgba(48, 48, 48, 0.671);
+color: brown;}
+h1{background-color: rgba(165, 42, 42, 0.445);
+    color: rgb(48, 48, 48);}
+h2{background-color: rgba(48, 48, 48, 0.418);
+color: chocolate;}
+h3{background-color: rgba(210, 105, 30, 0.37);
+color: rgb(48, 48, 48);}
+#color-red{color: red;
+}
+.viernes{
+    color: blueviolet;
+}
+body{background-image: url(ImgFondo.png);
+    background-size: cover;
+    background-repeat: no-repeat;}
+    .autor{background-color: rgba(196, 155, 42, 0.445);
+        color: rgb(155, 20, 20);
+    }
